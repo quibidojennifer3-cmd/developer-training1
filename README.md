@@ -1,4 +1,3 @@
-
 JENNIFER QUIBIDO BSIT 1B
 
 step 1: install gitbash
