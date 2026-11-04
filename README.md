@@ -1,4 +1,4 @@
-# developer-training1# developer-training1
+
 JENNIFER QUIBIDO BSIT 1B
 
 step 1: install gitbash
